@@ -1,13 +1,15 @@
 # Taurikin
 FU-FR Templete stats for skittles's taurikin
-v1.0.00.0
+v1.0.00.4
 
 Food-type: {Omnivorous}
+
 {(Primal-Omnivore)just an idea on the food-type: since really i had an idea where they could eat anything but only gained energy and run speed from eating raw veges and increased the health to the 15% mark 
 when eating raw meat and cant eat metalic foods)}
 
 Perks:
 +5% ~ (15% Health cap when eating cooked meat)
+
 +10% energy cap (25% energy when eating cooked veges)
 +8% Speed
 
@@ -35,5 +37,5 @@ Sniper Rifle: +5% crit when crouched, -10% run speed when weilded.
 
 Weaknesses: 
 -25% Radiation, -8% Darkness, 
--25% energy regen, -20% poison
-+25% Hunger rate (can eat more but at the cost of eating more food to feel full)
+-25% energy regen, -20% poison,
++25% Hunger rate 
