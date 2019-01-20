@@ -26,8 +26,11 @@ savana/lush enviroments grants: boosted armor by 15% (this applies to any armor)
 
 Weapons:
 Polearm/spear: 8% attack speed, +7.5% defence when guarding.
-ShortSpear and shield: +13% sheild health, +2.0 Crit chance.
-1h machine guns: 3% fire rate, -5% running when weilding them.
+
+ShortSpear and shield: +13% sheild health, +0.5 Crit chance.
+
+1h machine guns: +1.5% fire rate, -5% running when weilding them.
+
 Sniper Rifle: +5% crit when crouched, -10% run speed when weilded.
 
 Weaknesses: 
