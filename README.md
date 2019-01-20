@@ -32,5 +32,5 @@ Sniper Rifle: +5% crit when crouched, -10% run speed when weilded
 
 Weaknesses: 
 -25% Radiation, -8% Darkness, 
--25% energy regen, -10% poison
+-25% energy regen, -20% poison
 +25% Hunger rate (can eat more but at the cost of eating more food to feel full)
