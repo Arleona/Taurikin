@@ -11,6 +11,7 @@ Perks:
 +5% ~ (15% Health cap when eating cooked meat)
 
 +10% energy cap (25% energy when eating cooked veges)
+
 +8% Speed
 
 RaceTech: Feral Instincts: enbles for double jump. 
