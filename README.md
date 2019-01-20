@@ -34,7 +34,7 @@ ShortSpear and shield: +13% sheild health, +0.5 Crit chance.
 
 1h machine guns: +1.5% fire rate, -5% running when weilding them.
 
-Sniper Rifle: +5% crit when crouched, -10% run speed when weilded.
+Sniper Rifle: +5% crit, -10% run speed when weilded.
 
 Weaknesses: 
 -25% Radiation, -8% Darkness, 
