@@ -1,2 +1,3 @@
 # Taurikin
-FU Templete stats for the for skittles's taurikin
+FU-FR Templete stats for skittles's taurikin
+v1.0.00.0
