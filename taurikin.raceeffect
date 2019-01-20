@@ -1,1 +1,7 @@
+{
 
+	"stats": [{
+			        "stat": "isOmnivore",
+			        "amount": 1
+		},
+		{
