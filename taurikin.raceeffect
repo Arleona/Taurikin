@@ -5,3 +5,36 @@
 			        "amount": 1
 		},
 		{
+			"stat": "maxHealth",
+			"baseMultiplier": 1.08
+		},
+		{
+			"stat": "maxEnergy",
+			"baseMultiplier": 1.10
+		},
+		{
+			"stat": "iceResistance",
+			"amount": 0.1
+		},
+		{
+			"stat": "fireResistence",
+			"amount": 0.15
+		},
+		{
+			"stat": "cosmicResistence"
+			"amount": 0.25
+		},
+		{
+			"stat": "knockbackResistence"
+			"amount": 0.25
+		},
+		{
+			"stat": "radiationResistence"
+			"amount": -0.25
+		},
+		{
+			"stat": "darknessResistence"
+			"amount": -0.08
+		},
+		{
+			"Stat"
